@@ -1,5 +1,5 @@
 #@Author: Kyle Mede, kylemede@astron.s.u-tokyo.ac.jp
-from __future__ import absolute_import
+
 import logging
 import platform
 import datetime
